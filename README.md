@@ -90,7 +90,7 @@ pip install -r requirements.txt
 
 ### 3. Run notebook
 
-Open `notebooks/analysis.ipynb` in Jupyter/Colab
+Open `analysis.ipynb` in Jupyter/Colab
 
 ---
 
@@ -100,8 +100,7 @@ Open `notebooks/analysis.ipynb` in Jupyter/Colab
 breast-cancer-ml/
 │
 ├── data/
-├── notebooks/
-│   └── analysis.ipynb
+├── analysis.ipynb
 ├── saved_models/
 ├── src/
 ├── README.md
