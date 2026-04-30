@@ -109,14 +109,9 @@ breast-cancer-ml/
 
 ---
 
-## 🌐 Deployment (Optional)
-
-The model can be deployed using a simple Flask API for real-time predictions.
-
----
 
 ## 🌐 Live API
-[https://your-app-name.onrender.com](https://breast-cancer-ml-cdlo.onrender.com)
+[https://breast-cancer-ml-cdlo.onrender.com]
 
 > **Note:** API may take ~30-50 seconds on first request due to free-tier cold start.
 
