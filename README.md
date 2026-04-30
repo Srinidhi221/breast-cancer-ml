@@ -78,7 +78,7 @@ Trained models and preprocessing steps are saved using `joblib` for reuse withou
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-link>
+git clone [(https://github.com/Srinidhi221/breast-cancer-ml.git)]
 cd breast-cancer-ml
 ```
 
@@ -115,6 +115,10 @@ breast-cancer-ml/
 The model can be deployed using a simple Flask API for real-time predictions.
 
 ---
+
+## 🌐 Live API
+https://your-app-name.onrender.com
+Note: API may take ~30–50 seconds on first request due to free-tier cold start.
 
 ## 🔮 Future Improvements
 
