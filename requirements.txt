@@ -3,3 +3,4 @@ gunicorn
 numpy
 scikit-learn
 joblib
+pytest==8.3.3
